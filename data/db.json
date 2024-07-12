@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "likes": 30,
+      "title": "Welcome to the new blog",
+      "body": "Lorem ninja ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut ninja wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit ninja lobortis nisl ut aliquip ex ea commodo consequat. Duis ninja autem vel eum iriure dolor in hendrerit in vulputate ninja velit esse molestie consequat, vel illum dolore eu feugiat nulla ninja facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam ninja ipsum liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi ninja non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes ninja demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas ninja est etiam processus dynamicus, qui ninja sequitur mutationem consuetudium lectorum. Mirum ninja est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem ninja ipsum modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in ninja futurum."
+    },
+    {
+      "title": "New json course coming soon!",
+      "body": "Lorem ninja ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut ninja wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit ninja lobortis nisl ut aliquip ex ea commodo consequat. Duis ninja autem vel eum iriure dolor in hendrerit in vulputate ninja velit esse molestie consequat, vel illum dolore eu feugiat nulla ninja facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam ninja ipsum liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi ninja non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes ninja demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas ninja est etiam processus dynamicus, qui ninja sequitur mutationem consuetudium lectorum. Mirum ninja est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem ninja ipsum modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in ninja futurum.",
+      "likes": 20,
+      "id": "3"
+    },
+    {
+      "id": "1e60",
+      "title": "Daily life as a software engineer student",
+      "body": "Daily life as a software student typically involves a mix of attending lectures, participating in labs, and working on projects. Mornings often start with classes where new concepts in programming, algorithms, and software engineering are introduced. Afternoons might be spent in computer labs, applying these concepts through coding exercises and collaborative projects. Evenings are dedicated to self-study, reviewing class materials, and working on assignments. Time management is crucial, as balancing coursework with personal life can be challenging. Despite the intensity, the experience is rewarding, as each day brings new opportunities to solve problems and develop skills essential for a future career in technology.",
+      "likes": 0
+    },
+    {
+      "id": "8a09",
+      "title": "Time Management Tips for Students",
+      "body": "Balancing coursework, projects, and personal life can be challenging for any student. Effective time management is key to staying on top of responsibilities and avoiding burnout. Here are some strategies that have helped me manage my time better:\n\n1. Set Clear Goals: Start by setting specific, achievable goals for each day, week, and month. This helps you stay focused and motivated. Use a planner or digital tool to track these goals and monitor your progress.\n\n2. Create a Study Schedule: Designate specific times for studying, attending classes, and working on projects. Having a consistent routine helps create a habit and ensures that you allocate enough time for each activity.\n\n3. Prioritize Tasks**: Use the Eisenhower Matrix to categorize tasks based on their urgency and importance. Focus on high-priority tasks first, and avoid getting bogged down by less important activities.\n\n4. **Break Down Large Projects: Divide big projects into smaller, manageable tasks. This makes them less overwhelming and allows you to make steady progress. Set deadlines for each smaller task to keep yourself on track.\n\n5. Eliminate Distractions: Identify and minimize distractions that can disrupt your focus. This might mean finding a quiet study space, turning off notifications on your devices, or using apps like Forest or Focus@Will to stay concentrated.\n\n6. Use Productivity Tools: Leverage tools like Trello, Notion, or Asana to organize your tasks and projects. These tools can help you visualize your workload, set deadlines, and collaborate with others efficiently.\n\n7. Practice the Pomodoro Technique: Work in focused intervals (typically 25 minutes) followed by short breaks. This technique can improve your concentration and prevent burnout. After completing a few intervals, take a longer break to recharge.\n\n8. Stay Organized: Keep your study materials and workspace organized. This reduces time wasted searching for things and helps maintain a clear mind.\n\n9. Take Care of Yourself: Don’t neglect your physical and mental health. Make sure to get enough sleep, eat healthy, exercise regularly, and take breaks when needed. A healthy body and mind are crucial for maintaining productivity.\n\n10. Reflect and Adjust: Regularly review your progress and adjust your strategies as needed. What works for one person may not work for another, so be flexible and find what suits you best.\n",
+      "likes": 0
+    }
+  ],
+  "polls": [
+    {
+      "id": "1",
+      "question": "Do you prefer Vue or React?",
+      "answerA": "Vue",
+      "answerB": "React"
+    }
+  ]
+}
